@@ -7,6 +7,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos rela
 ## 📁 Estructura del Repositorio
 
 📦veterinaria-mi-mejor-amigo/
+
 ├── estructura.sql       # Script de creación de las tablas (DDL)
 ├── datos.sql            # Inserción de datos de prueba (DML)
 ├── consultas.sql        # Consultas SQL demostrativas (DQL)
