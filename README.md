@@ -82,7 +82,7 @@ Incluye **más de 15 consultas** con diferentes niveles de complejidad, utilizan
 
 ## 🎥 Explicación en Video
 
-📺 Puedes ver la explicación de las consultas y el funcionamiento del sistema en este video:  
+📺 La explicación de las consultas y el funcionamiento del sistema en este video:  
 👉 [Ver en YouTube](https://www.youtube.com/)
 
 ---
