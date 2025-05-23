@@ -7,11 +7,11 @@ Este proyecto consiste en el diseño e implementación de una base de datos rela
 ## 📁 Estructura del Repositorio
 
 📦veterinaria-mi-mejor-amigo/
-├── estructura.sql # Script de creación de las tablas (DDL)
-├── datos.sql # Inserción de datos de prueba (DML)
-├── consultas.sql # Consultas SQL demostrativas (DQL)
-├── modelo_ER.png # Imagen del diagrama E-R
-└── README.md # Este archivo
+├── estructura.sql       # Script de creación de las tablas (DDL)
+├── datos.sql            # Inserción de datos de prueba (DML)
+├── consultas.sql        # Consultas SQL demostrativas (DQL)
+├── modelo_ER.png        # Imagen del diagrama E-R
+└── README.md            # Este archivo
 
 ---
 
@@ -38,7 +38,7 @@ El modelo incluye las siguientes entidades:
 
 Cada entidad contiene su respectiva clave primaria, y se han definido las relaciones con claves foráneas y cardinalidades adecuadas.
 
-> 📎 Puedes visualizar el diagrama en el archivo `modelo_ER.png`.
+> 📎 ![Modelo ER](modelo_ER.png)
 
 ---
 
